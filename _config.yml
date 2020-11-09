@@ -4,9 +4,13 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Elizabeth Zhao
-title: Senior Network System Administrator
+title: Research Assistant at UC Irvine
 email: elizaevit@gmail.com
-website: https://lizruonan.github.io/resume
+#website:
+
+# Domain Name
+url: https://lizruonan.github.io
+baseurl: /resume
 
 # Social links
 #twitter_username: #
@@ -28,6 +32,14 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+- layout: left
+  name: LIME vs SHAP, A Theoretical Comparison
+  #link: https://github.com/lizruonan/limeproject
+  github: lizruonan/limeproject
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
 
 # Experience Section
 # experience_title: Experience
