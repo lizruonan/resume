@@ -1,8 +1,43 @@
 - layout: top-middle
-  name: A Theoretical Comparisons between LIME and SHAP
-  link: github.com/lizruonan
-  github: lizruonan/limeproject
+  name: Nonallosteric Mechanism for Bounded and Ultrasensitive Chromatin Remodeling
+  dates: 2020
+  #link: github.com/lizruonan
+  #github: lizruonan/limeproject
   quote: >
-
+    Publication in progress
   description: | # this will include new lines to allow paragraphs
-    
+    - Analyzed chemical reaction network system under mass-action kinetics to determine steady state
+      concentrations of specific chemical events
+    - Verified with theory accuracy from numerical algorithms
+    - Generalized probability of molecular events within microbiological system and plotted outcomes of
+      multiple events in MATLAB
+
+- layout: top-middle
+  name: A Theoretical Comparisons between LIME and SHAP
+  dates: 2019
+  link: lizruonan/limeproject
+  #github:
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    - Mathematically proved that LIME fails when width of Gaussian kernel is arbitrarily small
+    - Reproduced key results from LIME in Python utilizing open source code and data
+    - Researched different options of kernels to verify theoretical claims of SHAP in Python
+
+- layout: top-middle
+  name: Chromatin Remodeling Using Percolation Theory
+  dates: 2016-2017
+  description: |
+    - Tested percolation theory by using shortest-path algorithms in MATLAB to explain ultrasensitive
+transitions in chromatin remodeling
+
+- layout: top-middle
+  name: Finding Optimal Conversion Rate from Reticulate Body to Elementary Body of C. Trachomatis in a
+        Cell
+  dates: 2015
+  link: lizruonan/chlamydia
+  description: |
+    - Developed logistic growth model of C. Trachomatis to find optimal conversion rate and switch point
+between C. Trachomatis states
+    - Applied calculus of variations to find critical points in the transition between C. Trachomatis states
+    - Computed conversion rate of C. Trachomatis applying numerical methods in MATLAB
+    - Verified optimal conversion rate existence is dependent on the optimal switch point
