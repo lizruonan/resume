@@ -2,8 +2,34 @@
   company: University of California, Irvine
   #link:
   job_title: Research Assistant
-  dates: April 2020 - Present
+  dates: Apr 2020 - Present
   #quote: >
 
   description: | # this will include new lines to allow paragraphs
-    
+    - Collaborated closely with research team to design, implement and test MATLAB programs for
+      exploring properties of chromatin architectures
+    - Formally analyzed mathematical theories to prove experimented results
+    - Wrote and edited manuscript for publication
+
+- layout: left
+  company: New York University
+  #link:
+  job_title: Teaching Assistant for Probability, Statistics, & Decision Making
+  dates: Sep 2019 - Dec 2019
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    - Prepared recitations on graph theory, probability, statistics, and game theory for 50 students
+    - Cooperated with course instructors to keep track of recitations
+    - Evaluated students’ performance by grading quizzes and final exams
+
+- layout: left
+  company: New York University
+  #link:
+  job_title: Teaching Assistant for Data to Discovery Lab Sessions
+  dates: Sep 2018 - Dec 2018
+  #quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    - Supervised 50 students to work on lab assignments on analyzing large datasets in R
+    - Resolved any inquiries made by students
+    - Assessed students by grading midterm and final exams
