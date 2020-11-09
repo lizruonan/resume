@@ -4,6 +4,12 @@
   qualification: MS Mathematics
   #quote: >
   description: | # this will include new lines to allow paragraphs
+    At NYU, I studied advanced mathematics in real analysis, linear algebra, probability, ODEs, etc. Though the
+    classes were challenging for me, I had a better understanding in mathematics. More importantly, I passed the qualifcation exam for
+    masters students (also know as Written Exams)!
+
+    I took a machine learning course in my last semester. During the class, I conducted a research project about interpretability/explainability
+    of ML. I found myself enjoy studying ML and doing ML research. I'm looking for graduate programs that allow me to dive deep into ML.
 
 - layout: left
   name: University of California, Irvine
@@ -11,6 +17,16 @@
   qualification: BS Applied Mathematics
   #quote: >
   description: | # this will include new lines to allow paragraphs
-    - Pi Mu Epsilon (2016 - 2017)
-    - Physical Science Summer Research Program (PHY7) Award (2016)
-    - Undergraduate Research Opportunities Program (UROP) Scholarship Award (2015)
+    At UC Irvine, I found my interests in applied mathematics. I
+    participated several undegraduate research and won a few fellowships for my research opportunities.
+
+    Awards/Fellowships/Grants:
+    - title: Pi Mu Epsilon
+      dates: 2016 - 2017
+    - title: Physical Science Summer Research Program (PHY7) Award
+      dates: 2016
+    - title: Undergraduate Research Opportunities Program (UROP) Scholarship Award
+      dates: 2015
+
+    Besides from doing research, I actively engaged in the campus by joining the Math Club as a Treasurer and
+    the ASUCI (student government) as an intern.
