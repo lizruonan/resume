@@ -1,8 +1,8 @@
 - layout: top-middle
   name: Nonallosteric Mechanism for Bounded and Ultrasensitive Chromatin Remodeling
   dates: 2020
-  #link: github.com/lizruonan
-  #github: lizruonan/limeproject
+  #link:
+  #github:
   quote: >
     Publication in progress
   description: | # this will include new lines to allow paragraphs
@@ -15,8 +15,8 @@
 - layout: top-middle
   name: A Theoretical Comparisons between LIME and SHAP
   dates: 2019
-  link: lizruonan/limeproject
-  #github:
+  #link:
+  github: lizruonan/limeproject
   #quote: >
   description: | # this will include new lines to allow paragraphs
     - Mathematically proved that LIME fails when width of Gaussian kernel is arbitrarily small
@@ -34,7 +34,8 @@
   name: Finding Optimal Conversion Rate from Reticulate Body to Elementary Body of *C. Trachomatis* in a
         Cell
   dates: 2015
-  link: lizruonan/chlamydia
+  #link:
+  github: lizruonan/chlamydia
   description: |
     - Developed logistic growth model of *C. Trachomatis* to find optimal conversion rate and switch point
       between *C. Trachomatis* states
