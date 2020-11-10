@@ -27,17 +27,18 @@ about_profile_image: images/Avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Elizabeth.
 
+
+# Education Section
+# educaton_title: Education
+
+
 # Projects Section
 # projects_title: Projects
 
-# Honors Section
-# honors_title: Honors/Awards/Fellowships/Grants
 
 # Experience Section
 # experience_title: Experience
 
-# Education Section
-# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
