@@ -1,5 +1,7 @@
 - layout: left
-  name: New York University 
+  name: |
+        New York University
+        
         The Courant Institute of Mathemtaical Sciences
   dates: 2017 - 2020
   qualification: MS Mathematics
