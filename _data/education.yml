@@ -1,8 +1,9 @@
 - layout: left
-  name: the Courant Institute of Mathemtaical Sciences, New York University
+  name: New York University 
+        The Courant Institute of Mathemtaical Sciences
   dates: 2017 - 2020
   qualification: MS Mathematics
-  #quote: >
+  quote: > The top applied mathematics institute in the US
   description: | # this will include new lines to allow paragraphs
     At NYU, I studied advanced mathematics in *real analysis, linear algebra, probability, ODEs*, etc. Though the
     classes were challenging for me, I had a better understanding in mathematics. More importantly, I passed the qualifcation exam for
