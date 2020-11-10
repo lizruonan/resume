@@ -1,1 +1,3 @@
-# resume and CV
+# resume/CV
+
+Update on regular basis
