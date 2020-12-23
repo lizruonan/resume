@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Elizabeth Zhao
 title: Research Assistant at UC Irvine
 email: elizaevit@gmail.com
-#website:
+blogs: https://lizruonan.github.io/blogs
 
 
 # Social links
@@ -25,8 +25,11 @@ linkedin_username: ruonan-zhao
 # about_title: About Me
 about_profile_image: images/Avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Elizabeth.
+  Hi, my name is Elizabeth. I am a mathematician who is passionate about learning
+  and solving real-world problems. Currently, I am working in a mathematical biology lab
+  at UC Irvine as a research assistant focusing on the mathematical side of biology problems, suchs as chormatin modifications.
 
+#  I am now interested in machine learning and looking to transition into this field. I am fascinated by
 
 # Education Section
 # educaton_title: Education
@@ -43,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-   - [Technical Blogs](https://lizruonan.github.io/blogs)
+# - [Technical Blogs](https://lizruonan.github.io/blogs)
 
 # Footer
 footer_show_references: true
