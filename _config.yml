@@ -27,7 +27,8 @@ about_profile_image: images/Avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Elizabeth. I am a mathematician who is passionate about learning
   and solving real-world problems. Currently, I am working in a mathematical biology lab
-  at UC Irvine as a research assistant focusing on the mathematical side of biology problems, suchs as chormatin modifications.
+  at UC Irvine as a research assistant. My work is focusing on the mathematical side of biology problems,
+  suchs as evaluating chormatin modifications using ODEs.
 
 #  I am now interested in machine learning and looking to transition into this field. I am fascinated by
 
